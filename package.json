@@ -1,0 +1,14 @@
+{
+  "name": "shared-codebase-testing-activity",
+  "version": "1.0.0",
+  "description": "Intro TDD group practice with Jest",
+  "type": "commonjs",
+  "main": "src/sharedCodebase.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
